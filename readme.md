@@ -4,4 +4,5 @@
 - 💰 I work as a freelance full-stack web developer.
 - 👯 I’m looking to collaborate on web development.
 - 📫 I can be reached at [bhargawanan@electronics.du.ac.in](mailto:bhargawanan@electronics.du.ac.in)
+- ✍️ My blog [vuyn.me](https://vuyn.me)
 - ⚡ Fun(Sad) fact: I stutter, a lot.
